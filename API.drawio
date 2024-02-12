@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T07:12:26.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="6huYeOtQwdW2DznLHBfi" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T08:18:24.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="IpYRhX9UB942w7qK7X2i" version="23.1.2" type="github">
   <diagram name="Page-1" id="KpoSNjIPvQdtT7elPiDa">
     <mxGraphModel dx="1772" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,6 +37,9 @@
         <mxCell id="dCB3EUK5uvfwZvrrkoyE-14" value="Data query language and runtime " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="18" width="231" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="IcmNunf4z_hE3d6Q4-iC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IcmNunf4z_hE3d6Q4-iC-1" target="IcmNunf4z_hE3d6Q4-iC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IcmNunf4z_hE3d6Q4-iC-1" value="DI (Dependency Injection)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="30" y="363" width="183" height="26" as="geometry" />
         </mxCell>
@@ -45,6 +48,9 @@
         </mxCell>
         <mxCell id="IcmNunf4z_hE3d6Q4-iC-2" value="Software design pattern, atchitectural technique" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-17" y="249" width="277" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IcmNunf4z_hE3d6Q4-iC-5" value="IoC (Inversion of Control)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="32" y="469" width="179" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
