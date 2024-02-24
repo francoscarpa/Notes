@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T12:48:28.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Ft1j6FmNCzWe_eQEPn2d" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-24T00:52:59.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="XBL9BjoUgNdZwIjWHaaK" version="23.1.6" type="github">
   <diagram name="Page-1" id="KpoSNjIPvQdtT7elPiDa">
-    <mxGraphModel dx="1772" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,13 +44,43 @@
           <mxGeometry x="30" y="363" width="183" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IcmNunf4z_hE3d6Q4-iC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" parent="1" source="IcmNunf4z_hE3d6Q4-iC-2" target="IcmNunf4z_hE3d6Q4-iC-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="122" y="301" />
+              <mxPoint x="122" y="301" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IcmNunf4z_hE3d6Q4-iC-2" value="Software design pattern, architectural techniques" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="-43" y="249" width="331" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IcmNunf4z_hE3d6Q4-iC-5" value="IoC (Inversion of Control)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="32" y="469" width="179" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="edmfNa3Rvm1qZIoQZB43-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="edmfNa3Rvm1qZIoQZB43-1" target="edmfNa3Rvm1qZIoQZB43-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edmfNa3Rvm1qZIoQZB43-1" value="Swagger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510.5" y="317" width="67" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="edmfNa3Rvm1qZIoQZB43-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="edmfNa3Rvm1qZIoQZB43-2" target="edmfNa3Rvm1qZIoQZB43-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edmfNa3Rvm1qZIoQZB43-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="edmfNa3Rvm1qZIoQZB43-2" target="edmfNa3Rvm1qZIoQZB43-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="436" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edmfNa3Rvm1qZIoQZB43-2" value="OpenAPI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="511.5" y="423" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="edmfNa3Rvm1qZIoQZB43-4" value="Swashbuckle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="431.5" y="529" width="92" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="edmfNa3Rvm1qZIoQZB43-7" value="NSwag" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="609" y="524" width="58" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
